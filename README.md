@@ -4,8 +4,9 @@
 <br/> :blush: &nbsp; Formada em Direito
 <br/> :email: &nbsp; Entre em contato comigo: 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jediscola@gmail.com)](mailto:jediscola@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-discola/)](https://www.linkedin.com/in/jessica-discola/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&labelColor=violet&logo=instagram&logoColor=white&link=https://www.instagram.com/jehdiscola/)](https://www.instagram.com/jehdiscola/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jediscola@gmail.com)](mailto:jediscola@gmail.com)
 
 <br/>
 <div  align="center"> 
