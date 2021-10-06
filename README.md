@@ -1,6 +1,6 @@
 ## Oi, sou a Jessica :wave:
 
-<br/> :purple_heart: &nbsp; Desenvolvedora Full-Stack em formação
+<br/> :purple_heart: &nbsp; Desenvolvedora Full-Stack Java Jr Formada
 <br/> :blush: &nbsp; Formada em Direito
 <br/> :email: &nbsp; Entre em contato comigo: 
 
